@@ -1,5 +1,8 @@
 # Jumbled Frames Reconstruction
 
+VERSION WITH SIMPLE UI TO UPLOAD AND GET RECONSTRUCTED VIDEO IS AVAILABLE IN SEPARATE REPO
+https://github.com/ISHANTARE/jumbled_frames_video_reconstruction_with_ui
+
 ## Objective
 Reconstruct a 10-second jumbled video (300 frames) into the correct sequential order.
 
